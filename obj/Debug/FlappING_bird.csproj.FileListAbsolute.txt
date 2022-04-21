@@ -1,0 +1,10 @@
+E:\howards_random_stuff\projects\flappy_bird_tutorial\FlappING_bird\bin\Debug\FlappING_bird.exe.config
+E:\howards_random_stuff\projects\flappy_bird_tutorial\FlappING_bird\bin\Debug\FlappING_bird.exe
+E:\howards_random_stuff\projects\flappy_bird_tutorial\FlappING_bird\bin\Debug\FlappING_bird.pdb
+E:\howards_random_stuff\projects\flappy_bird_tutorial\FlappING_bird\obj\Debug\FlappING_bird.csproj.AssemblyReference.cache
+E:\howards_random_stuff\projects\flappy_bird_tutorial\FlappING_bird\obj\Debug\FlappING_bird.FlappyBird.resources
+E:\howards_random_stuff\projects\flappy_bird_tutorial\FlappING_bird\obj\Debug\FlappING_bird.Properties.Resources.resources
+E:\howards_random_stuff\projects\flappy_bird_tutorial\FlappING_bird\obj\Debug\FlappING_bird.csproj.GenerateResource.cache
+E:\howards_random_stuff\projects\flappy_bird_tutorial\FlappING_bird\obj\Debug\FlappING_bird.csproj.CoreCompileInputs.cache
+E:\howards_random_stuff\projects\flappy_bird_tutorial\FlappING_bird\obj\Debug\FlappING_bird.exe
+E:\howards_random_stuff\projects\flappy_bird_tutorial\FlappING_bird\obj\Debug\FlappING_bird.pdb
